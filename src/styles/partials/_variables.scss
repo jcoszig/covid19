@@ -1,0 +1,53 @@
+$black: #000000;
+$grey: #333132;
+$lightgrey: #e8e6df;
+$off-white: #faf4e9;
+$white: #ffffff;
+$red: #ba0c2f;
+$highlight-yellow: #f7f460;
+$green: #008000;
+
+// Font
+$font: 'HKGrotesk', sans-serif;
+
+// Dimensions
+$site-absolute-max-width: 2000px;
+$site-max-width: 1170px;
+
+$header-height: 110px;
+$footer-height: 80px;
+$side-padding: 2rem;
+
+// Paths
+$fonts: '../../assets/fonts/';
+
+/* Mixins */
+@mixin centrechildren {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+// Standard media queries (mobile first)
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+// from tablet and wider
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+//from desktop and wider
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+/* 
+Example usage:
+@include tablet { ... }
+@include desktop { ... }
+*/
