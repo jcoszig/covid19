@@ -1,0 +1,1765 @@
+{
+    "Countries": [
+      {
+        "Country": "Afghanistan",
+        "CountrySlug": "afghanistan",
+        "NewConfirmed": 2,
+        "TotalConfirmed": 24,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Albania",
+        "CountrySlug": "albania",
+        "NewConfirmed": 6,
+        "TotalConfirmed": 70,
+        "NewDeaths": 0,
+        "TotalDeaths": 2,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Algeria",
+        "CountrySlug": "algeria",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 90,
+        "NewDeaths": 2,
+        "TotalDeaths": 11,
+        "NewRecovered": 0,
+        "TotalRecovered": 32
+      },
+      {
+        "Country": "Andorra",
+        "CountrySlug": "andorra",
+        "NewConfirmed": 22,
+        "TotalConfirmed": 75,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Angola",
+        "CountrySlug": "angola",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Antigua and Barbuda",
+        "CountrySlug": "antigua-and-barbuda",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Argentina",
+        "CountrySlug": "argentina",
+        "NewConfirmed": 31,
+        "TotalConfirmed": 128,
+        "NewDeaths": 0,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 3
+      },
+      {
+        "Country": "Armenia",
+        "CountrySlug": "armenia",
+        "NewConfirmed": 21,
+        "TotalConfirmed": 136,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Aruba",
+        "CountrySlug": "aruba",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Australia",
+        "CountrySlug": "australia",
+        "NewConfirmed": 110,
+        "TotalConfirmed": 791,
+        "NewDeaths": 1,
+        "TotalDeaths": 7,
+        "NewRecovered": 0,
+        "TotalRecovered": 26
+      },
+      {
+        "Country": "Austria",
+        "CountrySlug": "austria",
+        "NewConfirmed": 375,
+        "TotalConfirmed": 2388,
+        "NewDeaths": 0,
+        "TotalDeaths": 6,
+        "NewRecovered": 0,
+        "TotalRecovered": 9
+      },
+      {
+        "Country": "Azerbaijan",
+        "CountrySlug": "azerbaijan",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 44,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 6
+      },
+      {
+        "Country": "Bahamas, The",
+        "CountrySlug": "bahamas,-the",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Bahrain",
+        "CountrySlug": "bahrain",
+        "NewConfirmed": 7,
+        "TotalConfirmed": 285,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 100
+      },
+      {
+        "Country": "Bangladesh",
+        "CountrySlug": "bangladesh",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 20,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 3
+      },
+      {
+        "Country": "Barbados",
+        "CountrySlug": "barbados",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Belarus",
+        "CountrySlug": "belarus",
+        "NewConfirmed": 18,
+        "TotalConfirmed": 69,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 5
+      },
+      {
+        "Country": "Belgium",
+        "CountrySlug": "belgium",
+        "NewConfirmed": 462,
+        "TotalConfirmed": 2257,
+        "NewDeaths": 16,
+        "TotalDeaths": 37,
+        "NewRecovered": -30,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Benin",
+        "CountrySlug": "benin",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Bhutan",
+        "CountrySlug": "bhutan",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Bolivia",
+        "CountrySlug": "bolivia",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 15,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Bosnia and Herzegovina",
+        "CountrySlug": "bosnia-and-herzegovina",
+        "NewConfirmed": 26,
+        "TotalConfirmed": 89,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Brazil",
+        "CountrySlug": "brazil",
+        "NewConfirmed": 172,
+        "TotalConfirmed": 793,
+        "NewDeaths": 5,
+        "TotalDeaths": 11,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Brunei",
+        "CountrySlug": "brunei",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 78,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 1,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Bulgaria",
+        "CountrySlug": "bulgaria",
+        "NewConfirmed": 33,
+        "TotalConfirmed": 127,
+        "NewDeaths": 0,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Burkina Faso",
+        "CountrySlug": "burkina-faso",
+        "NewConfirmed": 7,
+        "TotalConfirmed": 40,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Cabo Verde",
+        "CountrySlug": "cabo-verde",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Cambodia",
+        "CountrySlug": "cambodia",
+        "NewConfirmed": 14,
+        "TotalConfirmed": 51,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Cameroon",
+        "CountrySlug": "cameroon",
+        "NewConfirmed": 7,
+        "TotalConfirmed": 20,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Canada",
+        "CountrySlug": "canada",
+        "NewConfirmed": 143,
+        "TotalConfirmed": 943,
+        "NewDeaths": 3,
+        "TotalDeaths": 12,
+        "NewRecovered": 0,
+        "TotalRecovered": 9
+      },
+      {
+        "Country": "Central African Republic",
+        "CountrySlug": "central-african-republic",
+        "NewConfirmed": 2,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Chad",
+        "CountrySlug": "chad",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Chile",
+        "CountrySlug": "chile",
+        "NewConfirmed": 196,
+        "TotalConfirmed": 434,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 6,
+        "TotalRecovered": 6
+      },
+      {
+        "Country": "China",
+        "CountrySlug": "china",
+        "NewConfirmed": 94,
+        "TotalConfirmed": 81250,
+        "NewDeaths": 4,
+        "TotalDeaths": 3253,
+        "NewRecovered": 731,
+        "TotalRecovered": 71266
+      },
+      {
+        "Country": "Colombia",
+        "CountrySlug": "colombia",
+        "NewConfirmed": 26,
+        "TotalConfirmed": 128,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Congo (Brazzaville)",
+        "CountrySlug": "congo-(brazzaville)",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Congo (Kinshasa)",
+        "CountrySlug": "congo-(kinshasa)",
+        "NewConfirmed": 4,
+        "TotalConfirmed": 18,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Costa Rica",
+        "CountrySlug": "costa-rica",
+        "NewConfirmed": 20,
+        "TotalConfirmed": 89,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Cote d'Ivoire",
+        "CountrySlug": "cote-divoire",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 9,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Croatia",
+        "CountrySlug": "croatia",
+        "NewConfirmed": 23,
+        "TotalConfirmed": 128,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 5
+      },
+      {
+        "Country": "Cruise Ship",
+        "CountrySlug": "cruise-ship",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 712,
+        "NewDeaths": 0,
+        "TotalDeaths": 7,
+        "NewRecovered": 0,
+        "TotalRecovered": 325
+      },
+      {
+        "Country": "Cuba",
+        "CountrySlug": "cuba",
+        "NewConfirmed": 5,
+        "TotalConfirmed": 16,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Cyprus",
+        "CountrySlug": "cyprus",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 67,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Czechia",
+        "CountrySlug": "czechia",
+        "NewConfirmed": 139,
+        "TotalConfirmed": 833,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 1,
+        "TotalRecovered": 4
+      },
+      {
+        "Country": "Denmark",
+        "CountrySlug": "denmark",
+        "NewConfirmed": 112,
+        "TotalConfirmed": 1337,
+        "NewDeaths": 3,
+        "TotalDeaths": 9,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Djibouti",
+        "CountrySlug": "djibouti",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Dominican Republic",
+        "CountrySlug": "dominican-republic",
+        "NewConfirmed": 38,
+        "TotalConfirmed": 72,
+        "NewDeaths": 0,
+        "TotalDeaths": 2,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Ecuador",
+        "CountrySlug": "ecuador",
+        "NewConfirmed": 168,
+        "TotalConfirmed": 367,
+        "NewDeaths": 2,
+        "TotalDeaths": 5,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Egypt",
+        "CountrySlug": "egypt",
+        "NewConfirmed": 29,
+        "TotalConfirmed": 285,
+        "NewDeaths": 2,
+        "TotalDeaths": 8,
+        "NewRecovered": 7,
+        "TotalRecovered": 39
+      },
+      {
+        "Country": "El Salvador",
+        "CountrySlug": "el-salvador",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Equatorial Guinea",
+        "CountrySlug": "equatorial-guinea",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 6,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Estonia",
+        "CountrySlug": "estonia",
+        "NewConfirmed": 16,
+        "TotalConfirmed": 283,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Eswatini",
+        "CountrySlug": "eswatini",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Ethiopia",
+        "CountrySlug": "ethiopia",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 9,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Fiji",
+        "CountrySlug": "fiji",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Finland",
+        "CountrySlug": "finland",
+        "NewConfirmed": 50,
+        "TotalConfirmed": 450,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 10
+      },
+      {
+        "Country": "France",
+        "CountrySlug": "france",
+        "NewConfirmed": 1685,
+        "TotalConfirmed": 12632,
+        "NewDeaths": 207,
+        "TotalDeaths": 450,
+        "NewRecovered": 0,
+        "TotalRecovered": 12
+      },
+      {
+        "Country": "French Guiana",
+        "CountrySlug": "french-guiana",
+        "NewConfirmed": 15,
+        "TotalConfirmed": 15,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Gabon",
+        "CountrySlug": "gabon",
+        "NewConfirmed": 2,
+        "TotalConfirmed": 3,
+        "NewDeaths": 1,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Gambia, The",
+        "CountrySlug": "gambia,-the",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Georgia",
+        "CountrySlug": "georgia",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 43,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Germany",
+        "CountrySlug": "germany",
+        "NewConfirmed": 4528,
+        "TotalConfirmed": 19848,
+        "NewDeaths": 23,
+        "TotalDeaths": 67,
+        "NewRecovered": 67,
+        "TotalRecovered": 180
+      },
+      {
+        "Country": "Ghana",
+        "CountrySlug": "ghana",
+        "NewConfirmed": 5,
+        "TotalConfirmed": 16,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Greece",
+        "CountrySlug": "greece",
+        "NewConfirmed": 77,
+        "TotalConfirmed": 495,
+        "NewDeaths": 0,
+        "TotalDeaths": 6,
+        "NewRecovered": 11,
+        "TotalRecovered": 19
+      },
+      {
+        "Country": "Greenland",
+        "CountrySlug": "greenland",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guadeloupe",
+        "CountrySlug": "guadeloupe",
+        "NewConfirmed": 45,
+        "TotalConfirmed": 45,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guam",
+        "CountrySlug": "guam",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guatemala",
+        "CountrySlug": "guatemala",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 12,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guernsey",
+        "CountrySlug": "guernsey",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guinea",
+        "CountrySlug": "guinea",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Guyana",
+        "CountrySlug": "guyana",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Haiti",
+        "CountrySlug": "haiti",
+        "NewConfirmed": 2,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Holy See",
+        "CountrySlug": "holy-see",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Honduras",
+        "CountrySlug": "honduras",
+        "NewConfirmed": 12,
+        "TotalConfirmed": 24,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Hungary",
+        "CountrySlug": "hungary",
+        "NewConfirmed": 12,
+        "TotalConfirmed": 85,
+        "NewDeaths": 2,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Iceland",
+        "CountrySlug": "iceland",
+        "NewConfirmed": 79,
+        "TotalConfirmed": 409,
+        "NewDeaths": -1,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 5
+      },
+      {
+        "Country": "India",
+        "CountrySlug": "india",
+        "NewConfirmed": 50,
+        "TotalConfirmed": 244,
+        "NewDeaths": 1,
+        "TotalDeaths": 5,
+        "NewRecovered": 5,
+        "TotalRecovered": 20
+      },
+      {
+        "Country": "Indonesia",
+        "CountrySlug": "indonesia",
+        "NewConfirmed": 58,
+        "TotalConfirmed": 369,
+        "NewDeaths": 7,
+        "TotalDeaths": 32,
+        "NewRecovered": 4,
+        "TotalRecovered": 15
+      },
+      {
+        "Country": "Iran",
+        "CountrySlug": "iran",
+        "NewConfirmed": 1237,
+        "TotalConfirmed": 19644,
+        "NewDeaths": 149,
+        "TotalDeaths": 1433,
+        "NewRecovered": 1035,
+        "TotalRecovered": 6745
+      },
+      {
+        "Country": "Iraq",
+        "CountrySlug": "iraq",
+        "NewConfirmed": 16,
+        "TotalConfirmed": 208,
+        "NewDeaths": 4,
+        "TotalDeaths": 17,
+        "NewRecovered": 6,
+        "TotalRecovered": 49
+      },
+      {
+        "Country": "Ireland",
+        "CountrySlug": "ireland",
+        "NewConfirmed": 126,
+        "TotalConfirmed": 683,
+        "NewDeaths": 0,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 5
+      },
+      {
+        "Country": "Israel",
+        "CountrySlug": "israel",
+        "NewConfirmed": 28,
+        "TotalConfirmed": 705,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 3,
+        "TotalRecovered": 14
+      },
+      {
+        "Country": "Italy",
+        "CountrySlug": "italy",
+        "NewConfirmed": 5986,
+        "TotalConfirmed": 47021,
+        "NewDeaths": 627,
+        "TotalDeaths": 4032,
+        "NewRecovered": 0,
+        "TotalRecovered": 4440
+      },
+      {
+        "Country": "Jamaica",
+        "CountrySlug": "jamaica",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 16,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Japan",
+        "CountrySlug": "japan",
+        "NewConfirmed": 39,
+        "TotalConfirmed": 963,
+        "NewDeaths": 4,
+        "TotalDeaths": 33,
+        "NewRecovered": 41,
+        "TotalRecovered": 191
+      },
+      {
+        "Country": "Jersey",
+        "CountrySlug": "jersey",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Jordan",
+        "CountrySlug": "jordan",
+        "NewConfirmed": 16,
+        "TotalConfirmed": 85,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Kazakhstan",
+        "CountrySlug": "kazakhstan",
+        "NewConfirmed": 5,
+        "TotalConfirmed": 49,
+        "NewDeaths": 3,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Kenya",
+        "CountrySlug": "kenya",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Korea, South",
+        "CountrySlug": "korea,-south",
+        "NewConfirmed": 87,
+        "TotalConfirmed": 8652,
+        "NewDeaths": 3,
+        "TotalDeaths": 94,
+        "NewRecovered": 0,
+        "TotalRecovered": 1540
+      },
+      {
+        "Country": "Kosovo",
+        "CountrySlug": "kosovo",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Kuwait",
+        "CountrySlug": "kuwait",
+        "NewConfirmed": 11,
+        "TotalConfirmed": 159,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 18
+      },
+      {
+        "Country": "Kyrgyzstan",
+        "CountrySlug": "kyrgyzstan",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 6,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Latvia",
+        "CountrySlug": "latvia",
+        "NewConfirmed": 25,
+        "TotalConfirmed": 111,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Lebanon",
+        "CountrySlug": "lebanon",
+        "NewConfirmed": 6,
+        "TotalConfirmed": 163,
+        "NewDeaths": 0,
+        "TotalDeaths": 4,
+        "NewRecovered": 0,
+        "TotalRecovered": 4
+      },
+      {
+        "Country": "Liberia",
+        "CountrySlug": "liberia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Liechtenstein",
+        "CountrySlug": "liechtenstein",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 28,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Lithuania",
+        "CountrySlug": "lithuania",
+        "NewConfirmed": 13,
+        "TotalConfirmed": 49,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Luxembourg",
+        "CountrySlug": "luxembourg",
+        "NewConfirmed": 149,
+        "TotalConfirmed": 484,
+        "NewDeaths": 0,
+        "TotalDeaths": 4,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Madagascar",
+        "CountrySlug": "madagascar",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Malaysia",
+        "CountrySlug": "malaysia",
+        "NewConfirmed": 130,
+        "TotalConfirmed": 1030,
+        "NewDeaths": 1,
+        "TotalDeaths": 3,
+        "NewRecovered": 12,
+        "TotalRecovered": 87
+      },
+      {
+        "Country": "Maldives",
+        "CountrySlug": "maldives",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 13,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Malta",
+        "CountrySlug": "malta",
+        "NewConfirmed": 11,
+        "TotalConfirmed": 64,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Martinique",
+        "CountrySlug": "martinique",
+        "NewConfirmed": 9,
+        "TotalConfirmed": 32,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Mauritania",
+        "CountrySlug": "mauritania",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Mauritius",
+        "CountrySlug": "mauritius",
+        "NewConfirmed": 9,
+        "TotalConfirmed": 12,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Mayotte",
+        "CountrySlug": "mayotte",
+        "NewConfirmed": 6,
+        "TotalConfirmed": 6,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Mexico",
+        "CountrySlug": "mexico",
+        "NewConfirmed": 46,
+        "TotalConfirmed": 164,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 4
+      },
+      {
+        "Country": "Moldova",
+        "CountrySlug": "moldova",
+        "NewConfirmed": 17,
+        "TotalConfirmed": 66,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Monaco",
+        "CountrySlug": "monaco",
+        "NewConfirmed": 4,
+        "TotalConfirmed": 11,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Mongolia",
+        "CountrySlug": "mongolia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 6,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Montenegro",
+        "CountrySlug": "montenegro",
+        "NewConfirmed": 11,
+        "TotalConfirmed": 14,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Morocco",
+        "CountrySlug": "morocco",
+        "NewConfirmed": 14,
+        "TotalConfirmed": 77,
+        "NewDeaths": 1,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Namibia",
+        "CountrySlug": "namibia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Nepal",
+        "CountrySlug": "nepal",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Netherlands",
+        "CountrySlug": "netherlands",
+        "NewConfirmed": 536,
+        "TotalConfirmed": 3003,
+        "NewDeaths": 30,
+        "TotalDeaths": 107,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "New Zealand",
+        "CountrySlug": "new-zealand",
+        "NewConfirmed": 11,
+        "TotalConfirmed": 39,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Nicaragua",
+        "CountrySlug": "nicaragua",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Niger",
+        "CountrySlug": "niger",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Nigeria",
+        "CountrySlug": "nigeria",
+        "NewConfirmed": 4,
+        "TotalConfirmed": 12,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "North Macedonia",
+        "CountrySlug": "north-macedonia",
+        "NewConfirmed": 19,
+        "TotalConfirmed": 67,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Norway",
+        "CountrySlug": "norway",
+        "NewConfirmed": 168,
+        "TotalConfirmed": 1914,
+        "NewDeaths": 0,
+        "TotalDeaths": 7,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "occupied Palestinian territory",
+        "CountrySlug": "occupied-palestinian-territory",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Oman",
+        "CountrySlug": "oman",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 48,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 12
+      },
+      {
+        "Country": "Pakistan",
+        "CountrySlug": "pakistan",
+        "NewConfirmed": 47,
+        "TotalConfirmed": 501,
+        "NewDeaths": 1,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 13
+      },
+      {
+        "Country": "Panama",
+        "CountrySlug": "panama",
+        "NewConfirmed": 28,
+        "TotalConfirmed": 137,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Papua New Guinea",
+        "CountrySlug": "papua-new-guinea",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Paraguay",
+        "CountrySlug": "paraguay",
+        "NewConfirmed": 2,
+        "TotalConfirmed": 13,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Peru",
+        "CountrySlug": "peru",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 234,
+        "NewDeaths": 3,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Philippines",
+        "CountrySlug": "philippines",
+        "NewConfirmed": 13,
+        "TotalConfirmed": 230,
+        "NewDeaths": 1,
+        "TotalDeaths": 18,
+        "NewRecovered": 0,
+        "TotalRecovered": 8
+      },
+      {
+        "Country": "Poland",
+        "CountrySlug": "poland",
+        "NewConfirmed": 70,
+        "TotalConfirmed": 425,
+        "NewDeaths": 0,
+        "TotalDeaths": 5,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Portugal",
+        "CountrySlug": "portugal",
+        "NewConfirmed": 235,
+        "TotalConfirmed": 1020,
+        "NewDeaths": 3,
+        "TotalDeaths": 6,
+        "NewRecovered": 2,
+        "TotalRecovered": 5
+      },
+      {
+        "Country": "Puerto Rico",
+        "CountrySlug": "puerto-rico",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Qatar",
+        "CountrySlug": "qatar",
+        "NewConfirmed": 10,
+        "TotalConfirmed": 470,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 6,
+        "TotalRecovered": 10
+      },
+      {
+        "Country": "Republic of the Congo",
+        "CountrySlug": "republic-of-the-congo",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Reunion",
+        "CountrySlug": "reunion",
+        "NewConfirmed": 28,
+        "TotalConfirmed": 28,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Romania",
+        "CountrySlug": "romania",
+        "NewConfirmed": 31,
+        "TotalConfirmed": 308,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 25
+      },
+      {
+        "Country": "Russia",
+        "CountrySlug": "russia",
+        "NewConfirmed": 54,
+        "TotalConfirmed": 253,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 9
+      },
+      {
+        "Country": "Rwanda",
+        "CountrySlug": "rwanda",
+        "NewConfirmed": 9,
+        "TotalConfirmed": 17,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Saint Lucia",
+        "CountrySlug": "saint-lucia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Saint Vincent and the Grenadines",
+        "CountrySlug": "saint-vincent-and-the-grenadines",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "San Marino",
+        "CountrySlug": "san-marino",
+        "NewConfirmed": 25,
+        "TotalConfirmed": 144,
+        "NewDeaths": 3,
+        "TotalDeaths": 14,
+        "NewRecovered": 0,
+        "TotalRecovered": 4
+      },
+      {
+        "Country": "Saudi Arabia",
+        "CountrySlug": "saudi-arabia",
+        "NewConfirmed": 70,
+        "TotalConfirmed": 344,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 2,
+        "TotalRecovered": 8
+      },
+      {
+        "Country": "Senegal",
+        "CountrySlug": "senegal",
+        "NewConfirmed": 7,
+        "TotalConfirmed": 38,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 2
+      },
+      {
+        "Country": "Serbia",
+        "CountrySlug": "serbia",
+        "NewConfirmed": 32,
+        "TotalConfirmed": 135,
+        "NewDeaths": 1,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Seychelles",
+        "CountrySlug": "seychelles",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 7,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Singapore",
+        "CountrySlug": "singapore",
+        "NewConfirmed": 40,
+        "TotalConfirmed": 385,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 10,
+        "TotalRecovered": 124
+      },
+      {
+        "Country": "Slovakia",
+        "CountrySlug": "slovakia",
+        "NewConfirmed": 14,
+        "TotalConfirmed": 137,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Slovenia",
+        "CountrySlug": "slovenia",
+        "NewConfirmed": 55,
+        "TotalConfirmed": 341,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Somalia",
+        "CountrySlug": "somalia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "South Africa",
+        "CountrySlug": "south-africa",
+        "NewConfirmed": 52,
+        "TotalConfirmed": 202,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Spain",
+        "CountrySlug": "spain",
+        "NewConfirmed": 2447,
+        "TotalConfirmed": 20410,
+        "NewDeaths": 213,
+        "TotalDeaths": 1043,
+        "NewRecovered": 481,
+        "TotalRecovered": 1588
+      },
+      {
+        "Country": "Sri Lanka",
+        "CountrySlug": "sri-lanka",
+        "NewConfirmed": 13,
+        "TotalConfirmed": 73,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 3
+      },
+      {
+        "Country": "Sudan",
+        "CountrySlug": "sudan",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Suriname",
+        "CountrySlug": "suriname",
+        "NewConfirmed": 3,
+        "TotalConfirmed": 4,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Sweden",
+        "CountrySlug": "sweden",
+        "NewConfirmed": 200,
+        "TotalConfirmed": 1639,
+        "NewDeaths": 5,
+        "TotalDeaths": 16,
+        "NewRecovered": 0,
+        "TotalRecovered": 16
+      },
+      {
+        "Country": "Switzerland",
+        "CountrySlug": "switzerland",
+        "NewConfirmed": 1219,
+        "TotalConfirmed": 5294,
+        "NewDeaths": 13,
+        "TotalDeaths": 54,
+        "NewRecovered": 0,
+        "TotalRecovered": 15
+      },
+      {
+        "Country": "Taiwan*",
+        "CountrySlug": "taiwan*",
+        "NewConfirmed": 27,
+        "TotalConfirmed": 135,
+        "NewDeaths": 1,
+        "TotalDeaths": 2,
+        "NewRecovered": 0,
+        "TotalRecovered": 26
+      },
+      {
+        "Country": "Tanzania",
+        "CountrySlug": "tanzania",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 6,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Thailand",
+        "CountrySlug": "thailand",
+        "NewConfirmed": 50,
+        "TotalConfirmed": 322,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 42
+      },
+      {
+        "Country": "The Bahamas",
+        "CountrySlug": "the-bahamas",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "The Gambia",
+        "CountrySlug": "the-gambia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 0,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Togo",
+        "CountrySlug": "togo",
+        "NewConfirmed": 8,
+        "TotalConfirmed": 9,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 1,
+        "TotalRecovered": 1
+      },
+      {
+        "Country": "Trinidad and Tobago",
+        "CountrySlug": "trinidad-and-tobago",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 9,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Tunisia",
+        "CountrySlug": "tunisia",
+        "NewConfirmed": 15,
+        "TotalConfirmed": 54,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Turkey",
+        "CountrySlug": "turkey",
+        "NewConfirmed": 167,
+        "TotalConfirmed": 359,
+        "NewDeaths": 1,
+        "TotalDeaths": 4,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Ukraine",
+        "CountrySlug": "ukraine",
+        "NewConfirmed": 13,
+        "TotalConfirmed": 29,
+        "NewDeaths": 1,
+        "TotalDeaths": 3,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "United Arab Emirates",
+        "CountrySlug": "united-arab-emirates",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 140,
+        "NewDeaths": 2,
+        "TotalDeaths": 2,
+        "NewRecovered": 0,
+        "TotalRecovered": 31
+      },
+      {
+        "Country": "United Kingdom",
+        "CountrySlug": "united-kingdom",
+        "NewConfirmed": 1298,
+        "TotalConfirmed": 4014,
+        "NewDeaths": 40,
+        "TotalDeaths": 178,
+        "NewRecovered": 0,
+        "TotalRecovered": 67
+      },
+      {
+        "Country": "Uruguay",
+        "CountrySlug": "uruguay",
+        "NewConfirmed": 15,
+        "TotalConfirmed": 94,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "US",
+        "CountrySlug": "us",
+        "NewConfirmed": 5424,
+        "TotalConfirmed": 19101,
+        "NewDeaths": 44,
+        "TotalDeaths": 244,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Uzbekistan",
+        "CountrySlug": "uzbekistan",
+        "NewConfirmed": 10,
+        "TotalConfirmed": 33,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Venezuela",
+        "CountrySlug": "venezuela",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 42,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Vietnam",
+        "CountrySlug": "vietnam",
+        "NewConfirmed": 6,
+        "TotalConfirmed": 91,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 16
+      },
+      {
+        "Country": "Zambia",
+        "CountrySlug": "zambia",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      },
+      {
+        "Country": "Zimbabwe",
+        "CountrySlug": "zimbabwe",
+        "NewConfirmed": 1,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+      }
+    ],
+    "Date": "2020-03-22T08:04:33.685942032Z"
+  }
