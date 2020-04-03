@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 // import { ... } from "../helpers";
+import Header from "./Header";
 import CountrySummary from "./CountrySummary";
  
 class App extends Component {
@@ -71,27 +72,48 @@ class App extends Component {
     this.setState({ filteredCountries })
   }
 
+  tableHeaders = () => {
+    return (
+      <>
+        <li><h3>Country:</h3></li>
+        <li><h3>New confirmed:</h3></li>
+        <li><h3>New deaths:</h3></li>
+        <li><h3>New recovered:</h3></li>
+        <li><h3>Total confirmed:</h3></li>
+        <li><h3>Total deaths:</h3></li>
+        <li><h3>Total recovered:</h3></li>
+        <li></li>{/* Further info links */}
+      </>
+    )
+  }
+
   render() {
     if(this.state.requestFailed) return <div className="error">Unable to fetch data</div>
     else if(!this.state.isLoaded) return <div className="loading">Loading...</div>
     else return (
       <>
-        <main className="country-summary-table">
-          {/* Render country summaries */}
-          {this.state.filteredCountries.length > 0 && this.state.filteredCountries.map( (item, index) => (
-            <CountrySummary
-              key={item.Slug}
-              index={index}
-              country={item.Country}
-              newConfirmed={item.NewConfirmed}
-              newDeaths={item.NewDeaths}
-              newRecovered={item.NewRecovered}
-              slug={item.Slug}
-              totalConfirmed={item.TotalConfirmed}
-              totalDeaths={item.TotalDeaths}
-              totalRecovered={item.TotalRecovered}
-            />
-          ))}
+        <Header/>
+        <main className="main">
+          <div className="country-summary-table">
+            <ul className="country-summary-row">
+              {this.tableHeaders()}
+              {/* Render country summaries */}
+              {this.state.filteredCountries.length > 0 && this.state.filteredCountries.map( (item, index) => (
+                <CountrySummary
+                  key={item.CountrySlug}
+                  index={index}
+                  country={item.Country}
+                  newConfirmed={item.NewConfirmed}
+                  newDeaths={item.NewDeaths}
+                  newRecovered={item.NewRecovered}
+                  slug={item.CountrySlug}
+                  totalConfirmed={item.TotalConfirmed}
+                  totalDeaths={item.TotalDeaths}
+                  totalRecovered={item.TotalRecovered}
+                />
+              ))}
+            </ul>
+          </div>
         </main>
       </>
     );

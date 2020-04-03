@@ -11,6 +11,7 @@ const Router = () => (
     <BrowserRouter>
         <Switch>
             <Route exact path="/" component={App}/> 
+            {/* todo: <Route path="/country/:countrySlug" component={CountryGraph}> */}
             <Route component={Notfound}/>
         </Switch>
     </BrowserRouter>
