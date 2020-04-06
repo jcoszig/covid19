@@ -4,32 +4,9 @@ import styled from 'styled-components';
 import Header from "./Header";
 import CountrySummary from "./CountrySummary";
 import CountrySummaryHeader from "./CountrySummaryHeader";
-
-/* Styled Components */
-const CountrySummaryTableWrapper = styled.div `
-  background-color: #fff;
-  margin: 0 auto 5rem;
-  width: 100%;
-  padding: 3rem;
-`;
-
-/*  props.rows: country number +1 (headers) 
-    props.columns: number of country summary categories */
-const CountrySummaryTable = styled.ul.attrs(props => ({
-  rows: props.rows, 
-  columns: props.columns 
-  }))`
-  display: grid;
-  grid-auto-flow: row;
-  grid-template-rows: repeat(${props => props.rows}, auto);
-  grid-template-columns: repeat(${props => props.columns}, 1fr);
-`;
-
-// const CountrySummaryLi = styled.li `
-//   background-color: #fff;
-//   border: 1px solid #f2f2f2;
-//   padding: 1rem 2.5rem;
-// `;
+import {  CountrySummaryTableWrapper,
+          CountrySummaryTable,
+          CountrySummaryTableLi } from "../styles/CountrySummaryTable.js";
 
 class App extends Component {
 
