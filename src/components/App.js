@@ -1,11 +1,39 @@
 import React, { Component } from "react";
+import styled from 'styled-components';
 // import { ... } from "../helpers";
 import Header from "./Header";
 import CountrySummary from "./CountrySummary";
- 
+import CountrySummaryHeader from "./CountrySummaryHeader";
+
+/* Styled Components */
+const CountrySummaryTableWrapper = styled.div `
+  background-color: #fff;
+  margin: 0 auto 5rem;
+  width: 100%;
+  padding: 3rem;
+`;
+
+/*  props.rows: country number +1 (headers) 
+    props.columns: number of country summary categories */
+const CountrySummaryTable = styled.ul.attrs(props => ({
+  rows: props.rows, 
+  columns: props.columns 
+  }))`
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-rows: repeat(${props => props.rows}, auto);
+  grid-template-columns: repeat(${props => props.columns}, 1fr);
+`;
+
+// const CountrySummaryLi = styled.li `
+//   background-color: #fff;
+//   border: 1px solid #f2f2f2;
+//   padding: 1rem 2.5rem;
+// `;
+
 class App extends Component {
 
-  // Initialize state, default countries are set
+  /* Initialize state, default countries are set */
   state = {
     requestFailed: false,
     isLoaded: false,
@@ -21,10 +49,20 @@ class App extends Component {
       'Sweden',
       'Germany',
       'South Korea'
+    ],
+    summaryTableHeaders: [
+      'Country:',
+      'Total confirmed:',
+      'New confirmed:',
+      'New deaths:',
+      'New recovered:',
+      'Total deaths:',
+      'Total recovered:',
+      '' // view further info
     ]
   }
 
-  // Fetch JSON data and set in state.
+  /* Fetch JSON data and set in state. */
   async componentDidMount() {
     const requestOptions = {
       method: 'GET',
@@ -72,21 +110,6 @@ class App extends Component {
     this.setState({ filteredCountries })
   }
 
-  tableHeaders = () => {
-    return (
-      <>
-        <li><h3>Country:</h3></li>
-        <li><h3>New confirmed:</h3></li>
-        <li><h3>New deaths:</h3></li>
-        <li><h3>New recovered:</h3></li>
-        <li><h3>Total confirmed:</h3></li>
-        <li><h3>Total deaths:</h3></li>
-        <li><h3>Total recovered:</h3></li>
-        <li></li>{/* Further info links */}
-      </>
-    )
-  }
-
   render() {
     if(this.state.requestFailed) return <div className="error">Unable to fetch data</div>
     else if(!this.state.isLoaded) return <div className="loading">Loading...</div>
@@ -94,11 +117,23 @@ class App extends Component {
       <>
         <Header/>
         <main className="main">
-          <div className="country-summary-table">
-            <ul className="country-summary-row">
-              {this.tableHeaders()}
-              {/* Render country summaries */}
-              {this.state.filteredCountries.length > 0 && this.state.filteredCountries.map( (item, index) => (
+          <CountrySummaryTableWrapper className="country-summary-table-wrapper">
+            <CountrySummaryTable 
+              className="country-summary-table"
+              rows={Number(this.state.countries.length) + 1}
+              columns={this.state.summaryTableHeaders.length}>
+              
+              {/* Table headers */}
+              {this.state.summaryTableHeaders.map( (header, index) => (
+                <CountrySummaryHeader
+                  key={index}
+                  header={header}
+                />
+              ))}
+
+              {/* Table data */}
+              {this.state.filteredCountries.length > 0 &&
+               this.state.filteredCountries.map( (item, index) => (
                 <CountrySummary
                   key={item.CountrySlug}
                   index={index}
@@ -112,8 +147,8 @@ class App extends Component {
                   totalRecovered={item.TotalRecovered}
                 />
               ))}
-            </ul>
-          </div>
+            </CountrySummaryTable>
+          </CountrySummaryTableWrapper>
         </main>
       </>
     );

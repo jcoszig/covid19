@@ -8,10 +8,10 @@ class CountrySummary extends Component {
         return (
             <>
                 <li>{this.props.country}</li>
+                <li>{this.props.totalConfirmed}</li>
                 <li>{this.props.newConfirmed}</li>
                 <li>{this.props.newDeaths}</li>
                 <li>{this.props.newRecovered}</li>
-                <li>{this.props.totalConfirmed}</li>
                 <li>{this.props.totalDeaths}</li>
                 <li>{this.props.totalRecovered}</li>
                 <Link to={`/graph/${this.props.slug}`}>
