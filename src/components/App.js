@@ -4,9 +4,7 @@ import styled from 'styled-components';
 import Header from "./Header";
 import CountrySummary from "./CountrySummary";
 import CountrySummaryHeader from "./CountrySummaryHeader";
-import {  CountrySummaryTableWrapper,
-          CountrySummaryTable,
-          CountrySummaryTableLi } from "../styles/CountrySummaryTable.js";
+import {  CountrySummaryTableWrapper, CountrySummaryTable } from "../styles/CountrySummaryTable.js";
 
 class App extends Component {
 
