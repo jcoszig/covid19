@@ -2,9 +2,7 @@ import React, { Component } from "react";
 import styled from 'styled-components';
 // import { ... } from "../helpers";
 import Header from "./Header";
-import CountrySummary from "./CountrySummary";
-import CountrySummaryHeader from "./CountrySummaryHeader";
-import {  CountrySummaryTableWrapper, CountrySummaryTable } from "../styles/CountrySummaryTable.js";
+import CountrySummaryTable from "./CountrySummaryTable";
 
 class App extends Component {
 
@@ -25,7 +23,7 @@ class App extends Component {
       'Germany',
       'South Korea'
     ],
-    summaryTableHeaders: [
+    countrySummaryCategories: [
       'Country:',
       'Total confirmed:',
       'New confirmed:',
@@ -85,45 +83,24 @@ class App extends Component {
     this.setState({ filteredCountries })
   }
 
+
   render() {
     if(this.state.requestFailed) return <div className="error">Unable to fetch data</div>
     else if(!this.state.isLoaded) return <div className="loading">Loading...</div>
     else return (
       <>
         <Header/>
-        <main className="main">
-          <CountrySummaryTableWrapper className="country-summary-table-wrapper">
-            <CountrySummaryTable 
-              className="country-summary-table"
-              rows={Number(this.state.countries.length) + 1}
-              columns={this.state.summaryTableHeaders.length}>
-              
-              {/* Table headers */}
-              {this.state.summaryTableHeaders.map( (header, index) => (
-                <CountrySummaryHeader
-                  key={index}
-                  header={header}
-                />
-              ))}
-
-              {/* Table data */}
-              {this.state.filteredCountries.length > 0 &&
-               this.state.filteredCountries.map( (item, index) => (
-                <CountrySummary
-                  key={item.CountrySlug}
-                  index={index}
-                  country={item.Country}
-                  newConfirmed={item.NewConfirmed}
-                  newDeaths={item.NewDeaths}
-                  newRecovered={item.NewRecovered}
-                  slug={item.CountrySlug}
-                  totalConfirmed={item.TotalConfirmed}
-                  totalDeaths={item.TotalDeaths}
-                  totalRecovered={item.TotalRecovered}
-                />
-              ))}
-            </CountrySummaryTable>
-          </CountrySummaryTableWrapper>
+        <main className="main-content">
+          <CountrySummaryTable 
+            countries = {this.state.countries}
+            countrySummaryCategories = {this.state.countrySummaryCategories}
+            filteredCountries = {
+              this.state.filteredCountries.length > 0 ? this.state.filteredCountries : false
+            }
+          />
+          <div className="retrieval-date">
+            Data last updated: {String(new Date(this.state.countriesSummaryRetrievalDate))}
+          </div>
         </main>
       </>
     );
